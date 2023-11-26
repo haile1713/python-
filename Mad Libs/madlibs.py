@@ -1,7 +1,7 @@
 noun = input ("someone's name: ")
 adjective = input ("adjective: ")
 verb= input ("verb: ") 
-body_part= input ("part of a body ") 
+body_part= input ("part of a body :") 
 number= input ("number: ") 
 noun2 = input ("noun: ")
 adverb = input ("adverb: ")
