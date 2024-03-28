@@ -1,8 +1,9 @@
 # python-
-small python projects !!!!
+Hi welcome ....
+here are some of my small python projects !!!!
 
 projects
-● Mad Libs Generator.
+● Mad Libs Generator./n
 ● Number-Guessing Game.
 ● Password Generator.
 ● Rock, Paper, Scissors.
