@@ -3,7 +3,7 @@ Hi welcome ....
 here are some of my small python projects !!!!
 
 projects
-● Mad Libs Generator./n
+● Mad Libs Generator.
 ● Number-Guessing Game.
 ● Password Generator.
 ● Rock, Paper, Scissors.
